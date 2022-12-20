@@ -14,7 +14,7 @@ function MyApp({ Component, pageProps }) {
     <Connect
       authOptions={{
         appDetails: {
-          name: "Stacks Next.js Template",
+          name: "Cerulean Marketplace",
           icon,
         },
         redirectTo: "/",
